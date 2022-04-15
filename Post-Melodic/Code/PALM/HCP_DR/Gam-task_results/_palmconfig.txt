@@ -1,0 +1,10 @@
+# Configuration file for PALM.
+# Version alpha118
+, running in Octave 5.2.0.
+# 07-Apr-2022 14:52:45
+
+-i Post-Melodic/Code/PALM/HCP_DR/Fit_T_beta-Diff_task-Gamble.csv
+-o Post-Melodic/Code/PALM/HCP_DR/Gam-task_results/
+-twotail
+-quiet
+-fdr

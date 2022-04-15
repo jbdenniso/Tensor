@@ -1,0 +1,13 @@
+# Configuration file for PALM.
+# Version alpha118
+, running in Octave 5.2.0.
+# 10-Apr-2022 11:32:16
+
+-i Post-Melodic/Code/PALM/Exp1/ForPALM_Exp1_task-Soc_smode.csv
+-o Post-Melodic/Code/PALM/Exp1/Soc-Depression_results/
+-d design.mat
+-t design.con
+-eb EB.csv
+-twotail
+-quiet
+-fdr

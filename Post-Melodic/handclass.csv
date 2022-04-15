@@ -1,0 +1,51 @@
+IC,IsGood,Notes
+IC01,False,Fissure
+IC02,False,CSF
+IC03,True,vmPFC DS
+IC04,False,
+IC05,True,Csf but also pfc pcc amd st clusters
+IC06,True,septum vmPFC PCC
+IC07,True,"dmPFC, caudate"
+IC08,True,
+IC09,True,visual cortex
+IC10,FALSE,
+IC11,TRUE,
+IC12,FALSE,
+IC13,FALSE,
+IC14,TRUE,PCC
+IC15,FALSE,
+IC16,TRUE,
+IC17,TRUE,
+IC18,TRUE,
+IC19,TRUE,SMA
+IC20,FALSE,Line
+IC21,TRUE,
+IC22,TRUE,Ringing
+IC23,FALSE,Fissure
+IC24,TRUE,
+IC25,TRUE,Ringing
+IC26,TRUE,Ringing
+IC27,TRUE,"CSF, White matter"
+IC28,TRUE,
+IC29,FALSE,
+IC30,TRUE,visual cortex
+IC31,TRUE,
+IC32,FALSE,
+IC33,TRUE,
+IC34,FALSE,Line
+IC35,FALSE,Line
+IC36,TRUE,
+IC37,FALSE,Line
+IC38,FALSE,Line
+IC39,TRUE,dlPFC
+IC40,FALSE,motion
+IC41,TRUE,
+IC42,TRUE,Insula
+IC43,FALSE,Ringing
+IC44,TRUE,visual cortex
+IC45,TRUE,"dlPFC, insula"
+IC46,TRUE,
+IC47,FALSE,Ringing
+IC48,FALSE,Line
+IC49,TRUE,
+IC50,FALSE,Line

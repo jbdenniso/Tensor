@@ -1,0 +1,10 @@
+# Configuration file for PALM.
+# Version alpha118
+, running in Octave 5.2.0.
+# 09-Apr-2022 14:27:42
+
+-i Post-Melodic/Code/PALM/Exp1/Fit_T_beta-Diff_task-Gam.csv
+-o Post-Melodic/Code/PALM/Exp1/Gam-task_results/
+-twotail
+-quiet
+-fdr

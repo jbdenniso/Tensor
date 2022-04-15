@@ -1,0 +1,14 @@
+/ContrastName1	dep_hc 
+/ContrastName2	dep_fam 
+/ContrastName3	fam_hc 
+/ContrastName4	fam_dep 
+/NumWaves	3
+/NumContrasts	4
+/PPheights		1.000000e+00	1.000000e+00	1.000000e+00	1.000000e+00
+/RequiredEffect		0.552	0.554	0.498	0.554
+
+/Matrix
+1.000000e+00 0.000000e+00 -1.000000e+00 
+1.000000e+00 -1.000000e+00 0.000000e+00 
+0.000000e+00 1.000000e+00 -1.000000e+00 
+-1.000000e+00 1.000000e+00 0.000000e+00 
